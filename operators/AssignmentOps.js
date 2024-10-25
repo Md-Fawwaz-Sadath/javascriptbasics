@@ -1,0 +1,10 @@
+let x = 10;
+let y = x + 5;
+console.log(y);
+console.log(x += 5);
+console.log(x -= 5);
+console.log(x *= 5);
+console.log(x /= 5);
+console.log(x %= 5);
+console.log(x **= 5);
+console.log(x);
