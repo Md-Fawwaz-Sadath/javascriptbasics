@@ -1,0 +1,12 @@
+let a = 1;
+console.log(a++);
+console.log(a);
+let b = 1;
+console.log(++b);
+console.log(b);
+let c = 1;
+console.log(c--);
+console.log(c);
+let d = 1;
+console.log(--d);
+console.log(d);
